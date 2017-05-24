@@ -1,0 +1,68 @@
+Group 1
+
+Doracic Filip
+Ilkka Linn
+
+Group 2
+
+Yngvesson Erik
+Renman Otto
+
+Group 3
+
+Strömblad Valdemar
+Süleyman Berk
+
+Group 4
+
+Steneby Jesper
+Agor Carlsson Dexter
+
+Group 5
+
+Edalat Ali
+Pagrell Liam
+
+Group 6
+
+Karlsson Björn
+Fjellet Samuel
+
+Group 7
+
+Mikelsons Emils
+Karlheden Jimmy
+
+Group 8
+
+Al-Oreibi Mohamad
+Takolander Gabriel
+
+Group 9
+
+Alnås Oliver
+Rissvik Alexander
+
+Group 10
+
+Cederquist Hugo
+Meijer Joris
+
+Group 11
+
+Åsenhed Angvall Johan
+Talib Ali
+
+Group 12
+
+Hamidovic Said
+Lippens Rubio Anthony
+
+Group 13
+
+Rundén Simon
+Ehlmé Tobias
+
+Group 14
+
+Sjöberg William
